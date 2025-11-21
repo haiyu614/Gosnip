@@ -96,10 +96,8 @@ src/
 ### 环境要求
 - Go 1.19+
 - Docker & Docker Compose
-- PostgreSQL
 - Redis
 - RabbitMQ
-- Elasticsearch
 - Consul
 - Gorse
 
